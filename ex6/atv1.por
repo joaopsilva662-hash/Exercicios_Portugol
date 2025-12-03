@@ -7,7 +7,7 @@ programa {
     leia(num2)
     resultado = num1 + num2
 
-    se(resultado > 10)
+    se(resultado > 20)
       escreva("O resultado é: " + resultado)
         senao
           escreva("Resultado menor que dez")
